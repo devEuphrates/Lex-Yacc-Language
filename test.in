@@ -1,0 +1,1 @@
+print "this\n" + "is\n" + "text\tandTab"; 
